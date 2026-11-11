@@ -1,0 +1,56 @@
+{
+  "brand": "Télégraphe",
+  "tagline": "Communiquez différemment.",
+  "brief": "Application de messagerie instantanée dynamique et moderne pour le web, le mobile et le print — pensée avec une radicalité géométrique inspirée d'Apple et dominée par l'Orange Télégraphe (#FF8D28).",
+  "adjectives": [
+    "dynamique",
+    "moderne",
+    "iconique",
+    "chaleureux"
+  ],
+  "criteria": "Objectifs : se démarquer radicalement de WhatsApp et Messenger, mettre l'orange #FF8D28 au cœur de l'identité (avec et sans fond), et rester lisible de 16 px aux grands formats print.",
+  "industry": "consumer-app",
+  "mockups": [
+    "app-icon",
+    "website",
+    "social",
+    "favicon-tab",
+    "business-card",
+    "signage"
+  ],
+  "nav": [
+    "Fonctionnalités",
+    "Sécurité",
+    "Télécharger"
+  ],
+  "brand_color": "#FF8D28",
+  "greyscale": false,
+  "final": true,
+  "designer": "Studio Télégraphe",
+  "round": 2,
+  "concepts": [
+    {
+      "name": "Impulsion (Kit Final)",
+      "symbol": "../masters/telegraphe-symbol-color.svg",
+      "lockup": "../masters/telegraphe-horizontal-color.svg",
+      "stacked": "../masters/telegraphe-stacked-color.svg",
+      "avatar": "../with-background/telegraphe-symbol-fond-orange-badge.svg",
+      "symbol_on_tile": "../masters/telegraphe-symbol-white-optical.svg",
+      "symbol_on_dark": "../masters/telegraphe-symbol-color.svg",
+      "lockup_on_dark": "../masters/telegraphe-horizontal-on-dark.svg",
+      "stacked_on_dark": "../masters/telegraphe-stacked-on-dark.svg",
+      "idea": "Un T sculptural né du code Morse de « Té » (trait + point) et d'un biseau à 45°, porté par l'Orange Télégraphe (#FF8D28).",
+      "rationale": [
+        "Omniprésence de l'orange #FF8D28 : 100 % du symbole et la racine « Télé » du logotype sont en orange vif, éliminant la lourdeur du noir.",
+        "Versions « avec fond » natives : badge d'application et bannières sur fond plein #FF8D28 avec tracé blanc optiquement affiné.",
+        "Construction géométrique pure (courbes continues, coupe exacte à 45°) qui conserve toute sa force à 16 px en favicon."
+      ]
+    }
+  ],
+  "recommendation": "Direction Impulsion validée — déclinée avec dominante Orange Télégraphe (#FF8D28), versions sur fond plein orange/sombre/ivoire, et pack complet d'icônes web, mobile et print.",
+  "next_steps": [
+    "Déploiement des icônes Web & App (favicon.ico, Apple Touch Icon, PWA)",
+    "Utilisation des versions avec fond (#FF8D28) pour les avatars, bannières et supports print",
+    "Application des règles d'espace de protection définies dans le guide de marque"
+  ]
+}
