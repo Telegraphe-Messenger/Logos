@@ -9,7 +9,7 @@ Ce dépôt centralise l'ensemble des fichiers de logo et les ressources graphiqu
 Le projet est organisé en 5 dossiers principaux :
 
 *   **`/masters`** : Les versions de référence (couleurs officielles, versions empilées/horizontales, symboles et wordmarks) en haute définition (`.svg` et `.png`).
-*   **`/variants`** : Les déclinaisons monochromes obligatoires (noir, blanc, orange `#ff8d28`) et les formats spécifiques (icônes d'application, favicons).
+*   **`/variants`** : Les déclinaisons monochromes obligatoires (noir, blanc, orange `#f09343`) et les formats spécifiques (icônes d'application, favicons).
 *   **`/with-background`** : Les configurations de logos déjà intégrées sur leurs fonds officiels (Ivoire, Orange, Sombre) sous forme de badges ou de bannières.
 *   **`/web-icons`** : Le kit complet prêt à l'emploi pour les intégrations web et applications (Favicons multi-tailles, `apple-touch-icon`, manifeste PWA et le snippet HTML d'intégration).
 *   **`/presentation`** : Les supports de présentation de la charte visuelle, incluant l'aperçu du kit (`kit-overview`) et les slides explicatives.
@@ -27,18 +27,8 @@ Le projet est organisé en 5 dossiers principaux :
 ## 🎨 Couleurs Clés de la Marque
 
 Les variantes monochromes font référence à notre identité colorimétrique :
-*   **Orange Télégraphe :** `#ff8d28`
-*   **Ivoire :** Fond clair officiel utilisé dans le dossier `/with-background`.
+*   **Orange Télégraphe :** `#f09343`.
 
----
-
-## 💻 Intégration Web (Quick Start)
-
-Pour intégrer rapidement les icônes de la marque sur un site web, copiez le contenu du dossier `/web-icons` à la racine de votre serveur et utilisez le fichier de configuration fourni :
-
-1. Ouvrez `web-icons/head-snippet.html`.
-2. Copiez les balises `<link>` dans le `<head>` de votre fichier HTML.
-3. Assurez-vous que le fichier `site.webmanifest` est bien accessible.
 
 ---
 
